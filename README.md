@@ -16,7 +16,7 @@ Pieces used from [boot-clj-docker-image][boot-clj-docker-image] and [docker-cloj
 ## Test
 
 ```
-$ docker run -it ignorabilis/boot-openjdk-clj repl
+$ docker run -it ignorabilis/boot-openjdk-clj:alpine repl
 ```
 
 ## Usage
